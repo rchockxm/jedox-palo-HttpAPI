@@ -19,3 +19,5 @@ Jedox Palo Server tools, you can control server by using HTTP API based on Windo
 * [libcurl](http://curl.haxx.se/libcurl/)
 
 <h2><a name="credits" class="anchor" href="#credits"><span class="mini-icon mini-icon-link"></span></a>Credits</h2>
+
+* [Ward](https://www.autoitscript.com/forum/topic/121985-autoit-machine-code-algorithm-collection/)
