@@ -9,7 +9,7 @@ Jedox Palo HttpAPI testing tools.
 
 Jedox Palo Server tools, you can control server by using HTTP API based on Windows. 
 
-<img src="http://i.imgur.com/qz2uacI.png" />
+<img src="http://i.imgur.com/7jX6B7w.png" />
 
 <h2><a name="author" class="anchor" href="#author"><span class="mini-icon mini-icon-link"></span></a>Author</h2>
 * 2011 rchockxm (rchockxm.silver@gmail.com)
