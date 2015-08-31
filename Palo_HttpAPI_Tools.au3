@@ -5,8 +5,8 @@
 #pragma compile(UPX, False)
 #pragma compile(FileDescription, Palo Http API Tools)
 #pragma compile(ProductName, PaloHttpAPI)
-#pragma compile(ProductVersion, 1.4)
-#pragma compile(FileVersion, 1.4.0.0, 1.4.0.0)
+#pragma compile(ProductVersion, 1.5)
+#pragma compile(FileVersion, 1.5.0.0, 1.5.0.0)
 #pragma compile(LegalCopyright, Silence Unlimited, Inc)
 #pragma compile(LegalTrademarks, '')
 #pragma compile(CompanyName, 'Silence Unlimited, Inc')
@@ -20,7 +20,7 @@
 #AutoIt3Wrapper_UseX64=y
 #AutoIt3Wrapper_Res_Comment=Http API Test Tools for Palo Olap
 #AutoIt3Wrapper_Res_Description=Palo Http API Tools
-#AutoIt3Wrapper_Res_Fileversion=1.4.0.0
+#AutoIt3Wrapper_Res_Fileversion=1.5.0.0
 #AutoIt3Wrapper_Res_LegalCopyright=Silence Unlimited, Inc
 #AutoIt3Wrapper_Res_requestedExecutionLevel=asInvoker
 #AutoIt3Wrapper_Run_Obfuscator=y
@@ -48,7 +48,7 @@ Global Const $Title = "Palo Http API Tools", _
 			 $Author = "Rchockxm", _
 			 $Mail = "rchockxm.silver@gmail.com", _
 			 $Web = "http://rchockxm.com", _
-			 $Version = "1.4"
+			 $Version = "1.5"
 Global Const $ConfigIni = @ScriptDir & "\Config.ini", _
 			 $APIsDir = @ScriptDir & "\APIs", _
 			 $APIsErr = LoadFileToArray(@ScriptDir & "\APIs\ErrorCode.txt"), _
