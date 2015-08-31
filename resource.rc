@@ -1,0 +1,23 @@
+
+1 VERSIONINFO
+FILEVERSION 1,1,0,0
+PRODUCTVERSION 3,3,9,0
+FILEOS 0x4
+FILETYPE 0x0
+{
+BLOCK "StringFileInfo"
+{
+	BLOCK "080904b0"
+	{
+		VALUE "FileVersion", "1.1.0.0"
+		VALUE "Comments", "Http API Test Tools for Palo Olap"
+		VALUE "FileDescription", "Palo Http API Tools"
+		VALUE "LegalCopyright", "Silence Unlimited, Inc"
+	}
+}
+
+BLOCK "VarFileInfo"
+{
+	VALUE "Translation", 0x0809 0x04B0
+}
+}

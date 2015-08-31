@@ -1,0 +1,100 @@
+1	unknown
+2	internal error
+3	invalid license
+1000	identifier not found
+1001	invalid filename
+1002	cannot create directory
+1003	cannot rename file
+1004	authorization failed
+1005	invalid type
+1006	invalid coordinates
+1007	conversion failed
+1008	file not found
+1009	not authorized for operation
+1010	corrupt file
+1011	already within event
+1012	not within event
+1013	invalid permission entry
+1014	invalid server path
+1015	invalid session
+1016	missing parameter
+1017	server token outdated
+1018	invalid splash mode
+1019	worker authorization failed
+1020	worker error
+1021	api call not implemented
+1022	insecure communication disabled
+1023	not enough memory
+1024	ssl failed
+1026	invalid string
+2000	invalid database name
+2001	database not found
+2002	database not loaded
+2003	database not saved
+2004	database still loaded
+2005	database name in use
+2006	databae is not deletable
+2007	database in not renamable
+2008	database token outdated
+2009	invalid database type
+3000	dimension empty
+3001	dimension already exists
+3002	dimension not found
+3003	invalid dimension name
+3004	dimension is not changable
+3005	dimension name in use
+3006	dimension in use
+3007	dimension not deletable
+3008	dimension not renamable
+3009	dimension token outdated
+3010	dimension is locked
+4000	element already exists
+4001	cirular reference
+4002	element name in use
+4003	element name not unique
+4004	element not found
+4005	element is no child
+4006	invalid element name
+4007	invalid element offset
+4008	invalid element type
+4009	invalid element position
+4010	element not deletable
+4011	element not renamable
+4012	element not changable
+4013	invalid mode
+5000	cube not found
+5001	invalid cube name
+5002	cube not loaded
+5003	cube empty
+5004	cube not saved
+5005	splash disabled
+5006	copy path must be numeric
+5007	invalid copy value
+5008	cube name in use
+5009	cube is not deletable
+5010	cube is not renamable
+5011	cube token outdated
+5012	splashing is not possible
+5013	cube lock not found
+5014	wrong user for locked area
+5015	could not create lock
+5016	is blocked because of a locked area
+5017	not enough rollback capacity
+5018	goalseek error
+5019	cube is system cube
+6000	legacy error
+6001	legacy error
+6002	legacy error
+6003	legacy error
+6004	legacy error
+6005	legacy error
+6006	legacy error
+6007	legacy error
+6008	legacy error
+6009	legacy error
+6010	legacy error
+7000	illegal worker response
+8001	parse error in rule
+8002	rule not found
+8003	rule has circular reference
+8004	division by zero
